@@ -29,6 +29,8 @@ plot(pressure)
 
 Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
 
+[link](google.com)
+
 ### Differently sized headers
 ## **bold** and *italics* texts
 # Ctrl-Alt-I for code chunks
